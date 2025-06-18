@@ -3,6 +3,7 @@ This week, you're going to explore a few notebooks that enable you to do differe
 - [[linlithgow_spatial.ipynb]]
 - [[r_kernel_install.ipynb]]
 - [[r-for-gis.ipynb]]
+- [[LiDAR.ipynb]]
 
 When you're done with a computational notebook, remember to ctrl+s to save things, and then right-click on the name of the file in the file tray at left, and select 'Shut Down Kernel'. This will free up computational resources.
 
