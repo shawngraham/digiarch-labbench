@@ -44,7 +44,7 @@ Each note focuses on **one idea** or **atom of thought** that can be:
 - **Built upon over time**
 - Literature review: use the @ symbol to indicate a note that contains the precis for an academic article, referenced by the author and year
 
-**Example**: Instead of "Research Notes on Amazonian Archaeology," create:
+**Example**: Instead of one big file called "Research Notes on Amazonian Archaeology," filled with everything you've collected, create separate notes that you can later link together:
 - [[terra-preta]]
 - [[orinoco-rock-art]]
 - [[@riris-oliver-2024]]
@@ -140,7 +140,7 @@ by showing limited clustering across time and space.
 
 ## PKM Tools and Philosophy
 
-This JupyterLite environment combines:
+This JupyterLab environment combines:
 - **Computational capabilities** (notebooks, data analysis)
 - **Networked thinking** (wikilinks, backlinks) 
 - **Academic writing** (markdown, embedding)

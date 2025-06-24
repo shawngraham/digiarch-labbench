@@ -3,6 +3,9 @@
 **Doing Digital Archaeology in your Personal Knowledge Management Lab**
 
 Welcome to this Introduction to Digital Archaeology. This interactive environment combines the power of computational notebooks with personal knowledge management (PKM) techniques. Think of this as your "digital lab notebook" where you'll learn to connect ideas, build knowledge networks, and use computational tools for archaeological research.
+
+Notice the 'table of contents' icon on the left hand side of the screen? When you're looking at a file like this, click on that button and you'll get a quick view of all of the headings in this document. Click on the folder icon to see all of the files instead.
+
 ## 🎯 What You'll Learn Here
 
 - **Knowledge networking**: How to connect ideas across time and disciplines
@@ -21,6 +24,7 @@ I built this site as part of my research into making research platforms where wr
 That said, AS AN ALTERNATIVE, or if you run into trouble using this site, you may download all of the course materials from [this link] and use Obsidian plus the Google Colab service.
 
 Ready? Let's go!
+
 ## 🚀 Quick Start Guide
 
 ### Step 1: Understanding This Interface
@@ -68,11 +72,5 @@ This environment is designed to help you **think like a digital humanist**:
 2. **Document your thinking**: Create notes about your questions and insights  
 3. **Build progressively**: Start simple, add complexity as you learn
 4. **Experiment safely**: This is your space to try things out
-
-## 🎯 Ready to Begin?
-
-Take your [[first-steps]].
-
----
 
 *Remember: The goal isn't to memorize facts, but to build a network of connected understanding that will serve your research and thinking for years to come.*
