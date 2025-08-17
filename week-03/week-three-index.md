@@ -1,9 +1,14 @@
+## Week Three
+
 This week, you're going to explore a few notebooks that enable you to do different kinds of spatial analysis. Approach them in this order:
 
+- [[quick-map-with-geojson.ipynb]]
 - [[linlithgow_spatial.ipynb]]
 - [[r_kernel_install.ipynb]]
 - [[r-for-gis.ipynb]]
 - [[LiDAR.ipynb]]
+
+**Remember** it's not about how many you _complete_, it's about how far you push yourself out of your comfort zone.
 
 When you're done with a computational notebook, remember to ctrl+s to save things, and then right-click on the name of the file in the file tray at left, and select 'Shut Down Kernel'. This will free up computational resources.
 
